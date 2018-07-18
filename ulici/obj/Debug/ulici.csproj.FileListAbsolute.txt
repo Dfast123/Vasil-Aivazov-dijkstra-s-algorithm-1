@@ -1,0 +1,13 @@
+c:\users\dfast\documents\visual studio 2013\Projects\ulici\ulici\bin\Debug\ulici.exe.config
+c:\users\dfast\documents\visual studio 2013\Projects\ulici\ulici\bin\Debug\ulici.exe
+c:\users\dfast\documents\visual studio 2013\Projects\ulici\ulici\bin\Debug\ulici.pdb
+c:\users\dfast\documents\visual studio 2013\Projects\ulici\ulici\obj\Debug\ulici.csprojResolveAssemblyReference.cache
+c:\users\dfast\documents\visual studio 2013\Projects\ulici\ulici\obj\Debug\ulici.exe
+c:\users\dfast\documents\visual studio 2013\Projects\ulici\ulici\obj\Debug\ulici.pdb
+C:\Users\Злошко\Desktop\Vasil Aivazov dijkstra's algorithm #1\Vasil Aivazov dijkstra's algorithm #1\ulici\bin\Debug\ulici.exe.config
+C:\Users\Злошко\Desktop\Vasil Aivazov dijkstra's algorithm #1\Vasil Aivazov dijkstra's algorithm #1\ulici\bin\Debug\ulici.exe
+C:\Users\Злошко\Desktop\Vasil Aivazov dijkstra's algorithm #1\Vasil Aivazov dijkstra's algorithm #1\ulici\bin\Debug\ulici.pdb
+C:\Users\Злошко\Desktop\Vasil Aivazov dijkstra's algorithm #1\Vasil Aivazov dijkstra's algorithm #1\ulici\obj\Debug\ulici.csprojAssemblyReference.cache
+C:\Users\Злошко\Desktop\Vasil Aivazov dijkstra's algorithm #1\Vasil Aivazov dijkstra's algorithm #1\ulici\obj\Debug\ulici.csproj.CoreCompileInputs.cache
+C:\Users\Злошко\Desktop\Vasil Aivazov dijkstra's algorithm #1\Vasil Aivazov dijkstra's algorithm #1\ulici\obj\Debug\ulici.exe
+C:\Users\Злошко\Desktop\Vasil Aivazov dijkstra's algorithm #1\Vasil Aivazov dijkstra's algorithm #1\ulici\obj\Debug\ulici.pdb
